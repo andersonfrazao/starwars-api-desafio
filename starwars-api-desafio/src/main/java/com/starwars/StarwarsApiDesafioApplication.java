@@ -10,4 +10,5 @@ public class StarwarsApiDesafioApplication {
 		SpringApplication.run(StarwarsApiDesafioApplication.class, args);
 	}
 
+	
 }
